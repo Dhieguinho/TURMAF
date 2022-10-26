@@ -3,6 +3,7 @@ header {
 }
 
 .caixa {
+    position: relative;
     widht: 940px;
 
 nav {
